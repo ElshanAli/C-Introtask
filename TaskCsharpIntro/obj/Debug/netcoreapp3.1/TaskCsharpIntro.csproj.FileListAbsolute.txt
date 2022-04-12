@@ -1,0 +1,14 @@
+C:\Users\RZS\source\repos\TaskCsharpIntro\TaskCsharpIntro\bin\Debug\netcoreapp3.1\TaskCsharpIntro.exe
+C:\Users\RZS\source\repos\TaskCsharpIntro\TaskCsharpIntro\bin\Debug\netcoreapp3.1\TaskCsharpIntro.deps.json
+C:\Users\RZS\source\repos\TaskCsharpIntro\TaskCsharpIntro\bin\Debug\netcoreapp3.1\TaskCsharpIntro.runtimeconfig.json
+C:\Users\RZS\source\repos\TaskCsharpIntro\TaskCsharpIntro\bin\Debug\netcoreapp3.1\TaskCsharpIntro.runtimeconfig.dev.json
+C:\Users\RZS\source\repos\TaskCsharpIntro\TaskCsharpIntro\bin\Debug\netcoreapp3.1\TaskCsharpIntro.dll
+C:\Users\RZS\source\repos\TaskCsharpIntro\TaskCsharpIntro\bin\Debug\netcoreapp3.1\TaskCsharpIntro.pdb
+C:\Users\RZS\source\repos\TaskCsharpIntro\TaskCsharpIntro\obj\Debug\netcoreapp3.1\TaskCsharpIntro.csproj.AssemblyReference.cache
+C:\Users\RZS\source\repos\TaskCsharpIntro\TaskCsharpIntro\obj\Debug\netcoreapp3.1\TaskCsharpIntro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RZS\source\repos\TaskCsharpIntro\TaskCsharpIntro\obj\Debug\netcoreapp3.1\TaskCsharpIntro.AssemblyInfoInputs.cache
+C:\Users\RZS\source\repos\TaskCsharpIntro\TaskCsharpIntro\obj\Debug\netcoreapp3.1\TaskCsharpIntro.AssemblyInfo.cs
+C:\Users\RZS\source\repos\TaskCsharpIntro\TaskCsharpIntro\obj\Debug\netcoreapp3.1\TaskCsharpIntro.csproj.CoreCompileInputs.cache
+C:\Users\RZS\source\repos\TaskCsharpIntro\TaskCsharpIntro\obj\Debug\netcoreapp3.1\TaskCsharpIntro.dll
+C:\Users\RZS\source\repos\TaskCsharpIntro\TaskCsharpIntro\obj\Debug\netcoreapp3.1\TaskCsharpIntro.pdb
+C:\Users\RZS\source\repos\TaskCsharpIntro\TaskCsharpIntro\obj\Debug\netcoreapp3.1\TaskCsharpIntro.genruntimeconfig.cache
